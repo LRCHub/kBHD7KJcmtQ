@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "lavender",
+  "base_artist": "JVKE",
+  "createdAt": "2026-02-28T09:13:36.613700Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lavender Haze",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Lavender_Haze_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Tristania",
+      "has_synced": true,
+      "path": "select/02_Lavender_Tristania.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Avantasia feat. Bob Catley",
+      "has_synced": true,
+      "path": "select/03_Lavender_Avantasia_feat._Bob_Catley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/04_Lavender_Avantasia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Fish",
+      "has_synced": false,
+      "path": "select/05_Lavender_Fish.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/06_Lavender_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/07_Lavender_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lavender Blue",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/08_Lavender_Blue_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lavender Lane",
+      "artist": "The Kinks",
+      "has_synced": true,
+      "path": "select/09_Lavender_Lane_The_Kinks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Vacations",
+      "has_synced": true,
+      "path": "select/10_Lavender_Vacations.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Patrickananda",
+      "has_synced": true,
+      "path": "select/11_Lavender_Patrickananda.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Unlike Pluto",
+      "has_synced": true,
+      "path": "select/12_Lavender_Unlike_Pluto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Unlike Pluto",
+      "has_synced": false,
+      "path": "select/13_Lavender_Unlike_Pluto.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lavender Buds",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/14_Lavender_Buds_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lavender",
+      "artist": "Two Door Cinema Club",
+      "has_synced": true,
+      "path": "select/15_Lavender_Two_Door_Cinema_Club.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lavender (feat. Pink Sweat$)",
+      "artist": "JVKE",
+      "has_synced": false,
+      "path": "select/pl_01_lavender_(feat._Pink_Sweat$)_JVKE.txt"
+    }
+  ]
+}
