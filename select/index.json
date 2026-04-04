@@ -1,128 +1,112 @@
 {
   "version": 1,
-  "base_track": "lavender",
+  "base_track": "lavender（feat. Pink Sweat$）",
   "base_artist": "JVKE",
-  "createdAt": "2026-02-28T09:13:36.613700Z",
+  "createdAt": "2026-04-04T13:56:29.690951Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Lavender Haze",
-      "artist": "Taylor Swift",
+      "title": "lavender (feat. Pink Sweat$)",
+      "artist": "JVKE feat. Pink Sweat$",
       "has_synced": true,
-      "path": "select/01_Lavender_Haze_Taylor_Swift.lrc"
+      "path": "select/01_lavender_(feat._Pink_Sweat$)_JVKE_feat._Pink_Sweat$.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Tristania",
+      "title": "lavender (feat. Pink Sweat$)",
+      "artist": "JVKE",
       "has_synced": true,
-      "path": "select/02_Lavender_Tristania.lrc"
+      "path": "select/02_lavender_(feat._Pink_Sweat$)_JVKE.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Avantasia feat. Bob Catley",
+      "title": "lavender (feat. Pink Sweat$)",
+      "artist": "JVKE/Pink Sweat$",
       "has_synced": true,
-      "path": "select/03_Lavender_Avantasia_feat._Bob_Catley.lrc"
+      "path": "select/03_lavender_(feat._Pink_Sweat$)_JVKE_Pink_Sweat$.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Avantasia",
+      "title": "Lavender (feat. Jolina Elísh)",
+      "artist": "juuku feat. Jolina Elísh",
       "has_synced": true,
-      "path": "select/04_Lavender_Avantasia.lrc"
+      "path": "select/04_Lavender_(feat._Jolina_Elísh)_juuku_feat._Jolina_Elísh.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Fish",
-      "has_synced": false,
-      "path": "select/05_Lavender_Fish.txt"
+      "title": "Lavender (feat. Bob Catley)",
+      "artist": "Avantasia",
+      "has_synced": true,
+      "path": "select/05_Lavender_(feat._Bob_Catley)_Avantasia.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Marillion",
+      "title": "Lavender feat. Channel Tres",
+      "artist": "Disclosure",
       "has_synced": true,
-      "path": "select/06_Lavender_Marillion.lrc"
+      "path": "select/06_Lavender_feat._Channel_Tres_Disclosure.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Marillion",
+      "title": "Lavender (feat. Channel Tres)",
+      "artist": "Disclosure",
       "has_synced": true,
-      "path": "select/07_Lavender_Marillion.lrc"
+      "path": "select/07_Lavender_(feat._Channel_Tres)_Disclosure.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "Lavender Blue",
-      "artist": "Marillion",
-      "has_synced": true,
-      "path": "select/08_Lavender_Blue_Marillion.lrc"
+      "title": "Lavender (feat. Kaytranada & Snoop Dogg) [Nightfall Remix]",
+      "artist": "BADBADNOTGOOD",
+      "has_synced": false,
+      "path": "select/08_Lavender_(feat._Kaytranada_&_Snoop_Dogg)_[Nightfall_Remix]_BADBADNOTGOOD.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Lavender Lane",
-      "artist": "The Kinks",
-      "has_synced": true,
-      "path": "select/09_Lavender_Lane_The_Kinks.lrc"
+      "title": "Lavender (feat. Snoop Dogg) [Nightfall Acappella]",
+      "artist": "BADBADNOTGOOD",
+      "has_synced": false,
+      "path": "select/09_Lavender_(feat._Snoop_Dogg)_[Nightfall_Acappella]_BADBADNOTGOOD.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Vacations",
-      "has_synced": true,
-      "path": "select/10_Lavender_Vacations.lrc"
+      "title": "Lavender Feat. Kill Bill: The Rapper",
+      "artist": "Rav",
+      "has_synced": false,
+      "path": "select/10_Lavender_Feat._Kill_Bill__The_Rapper_Rav.txt"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Patrickananda",
+      "title": "Lavender [feat. Kill Bill]",
+      "artist": "Rav",
       "has_synced": true,
-      "path": "select/11_Lavender_Patrickananda.lrc"
+      "path": "select/11_Lavender_[feat._Kill_Bill]_Rav.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Unlike Pluto",
+      "title": "The sounds of lavender (feat. $at.urn & Slevpy808)",
+      "artist": "1gnis",
       "has_synced": true,
-      "path": "select/12_Lavender_Unlike_Pluto.lrc"
+      "path": "select/12_The_sounds_of_lavender_(feat._$at.urn_&_Slevpy808)_1gnis.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Unlike Pluto",
-      "has_synced": false,
-      "path": "select/13_Lavender_Unlike_Pluto.txt"
-    },
-    {
-      "id": "lrclib_14",
-      "source": "lrclib",
-      "title": "Lavender Buds",
-      "artist": "MF DOOM",
+      "title": "lavender (feat",
+      "artist": "JVKE",
       "has_synced": true,
-      "path": "select/14_Lavender_Buds_MF_DOOM.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "Lavender",
-      "artist": "Two Door Cinema Club",
-      "has_synced": true,
-      "path": "select/15_Lavender_Two_Door_Cinema_Club.lrc"
+      "path": "select/13_lavender_(feat_JVKE.lrc"
     },
     {
       "id": "petitlyrics_1",
